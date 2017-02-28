@@ -6,7 +6,7 @@ This repository contains the IBM DevOps Toolchain for managing and deploying the
 
 The aim of this README file is to point out differences between public and local/dedicated deployment. For general info and configuration of the What's for Dinner's IBM DevOps Toolchain, __please do read [RESILIENCY](https://github.com/ibm-cloud-architecture/refarch-cloudnative-wfd-devops-containers/tree/RESILIENCY) branch first__.
 
-[![Create wfd Deployment Toolchain](https://new-console.ng.bluemix.net/devops/graphics/create_toolchain_button.png)](https://new-console.ng.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/ibm-cloud-architecture/refarch-cloudnative-wfd-devops-containers.git&branch=DEDICATED)
+[![Create wfd Deployment Toolchain](https://new-console.ng.bluemix.net/devops/graphics/create_toolchain_button.png)](https://new-console.ng.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/jesusmah/refarch-cloudnative-wfd-devops-containers.git&branch=DEDICATED)
 
 ### Details
 
